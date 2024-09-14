@@ -12,54 +12,69 @@
   + “Neuroarchitecture: How the Perception of Our Surroundings Impacts the Brain”
   + “Designing for human wellbeing: The integration of neuroarchitecture in design – A systematic review”
 
+
+
 ## Week 2
-**Introduction to Literature Reviews & Covidence**
-This week, you will be introduced to the process underlying literature reviews. 
-You will learn about the different types of literature reviews that exist in the field and how they differ. 
-You will begin to explore the Covidence Platform that you have been invited to. 
 
-**Tasks:**
-* Here is a list of search engines that you can use:
-  + Google Scholar - https://scholar.google.com/
-  + Scopus - https://www.scopus.com/search/form.uri?display=basic#basic
-  + Web of Science - https://www.webofscience.com/wos/woscc/basic-search
+### Overview
+This week, you will be introduced to the process underlying literature reviews. You will learn about different types of literature reviews, explore various publication database platforms, and begin using Zotero and Covidence for managing your research.
 
-* Conduct an initial search for literature related to Neuroarchitecture using these platforms and add any papers you find that are relevant to the topic to the Zotero
-  + Details on adding Zotero to your browser are available here - https://www.zotero.org/start
+### 1. Introduction to Literature Reviews
 
-* There are different types of reviews that can be done. Which would we want to do based on the evidence you had identified in your initial search of the literature? 
-  + Hint: https://support.covidence.org/help/types-of-review-explained
+#### Tasks:
+1. Read this article that outlines the literature review process: [SLR-1.pdf](https://www.dropbox.com/scl/fi/710hiakxcg8372yotcfel/SLR-1.pdf?rlkey=c6iws9ffguulg8se9cigy4ba6&st=y9jlb6t2&dl=0)
 
-* Read this article that outlines the literature review process:
-[Link to article] 
+2. Research different types of literature reviews. Which type would be most appropriate for our research on Neuroarchitecture based on your initial literature search?
+   - Hint: Refer to [Types of Review Explained](https://support.covidence.org/help/types-of-review-explained)
 
-* Develop the search terms related to the review we want to conduct
+3. Develop search terms related to the review we want to conduct on Neuroarchitecture.
 
-* Conduct an initial search for literature related to neuroarchitecture using these platforms and add any papers you find that are relevant to the topic to the Zotero
+### 2. Publication Database Platforms
 
-* The platform we will use for conducting the literature review is called Covidence. 
-  + Link to website: https://www.covidence.org/
-**Tasks:** 
-* I would like you to explore the website and answer the following questions:
-+ What is Covidence?
-+ Why should we use Covidence? What are some of the advantages of using this software? 
-+ What are different types of reviews that can be done? Which would we want to do based on the evidence you had identified in your initial search of the literature? 
-Hint: https://support.covidence.org/help/types-of-review-explained
-* Please watch the following introductory video on using Covidence
-+ Introductory Video: Covidence 101
-**Task:**
-  *	Create a brief summary of the key takeaways of this presentation and the platform (can be bullet points)
+#### Available Search Engines:
+- Google Scholar: https://scholar.google.com/
+- Scopus: https://www.scopus.com/search/form.uri?display=basic#basic
+- Web of Science: https://www.webofscience.com/wos/woscc/basic-search
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/
+- MEDLINE: https://www.medline.com/
+- PsycINFO: https://psycnet.apa.org/search
+- World Health Organization: https://www.who.int/data/collections
+- ClinicalTrials.gov
+- Embase
+- CINAHL
+- Central
+
+Note: Dr. Kastner can help determine which platforms you have access to via GT.
+
+#### Tasks:
+1. Identify which platforms are most relevant for our research question based on the topics they cover.
+2. Describe the types of studies/information that each of these platforms covers.
+3. Conduct an initial search for literature related to Neuroarchitecture using these platforms.
+
+### 3. Reference Management with Zotero
+
+#### Task:
+1. Add any relevant papers you find during your initial search to Zotero.
+   - Instructions for adding Zotero to your browser: https://www.zotero.org/start
+
+### 4. Introduction to Covidence
+
+Covidence is the platform we will use for conducting the literature review.
+Website: https://www.covidence.org/
+
+#### Tasks:
+1. Explore the Covidence website and answer the following questions:
+   - What is Covidence?
+   - Why should we use Covidence? What are some advantages of using this software?
+
+2. Watch the introductory video: Covidence 101
+
+3. Create a brief summary (can be bullet points) of:
+   - Key takeaways from the presentation
+   - Main features of the Covidence platform
 
 
+---
 
-
-
-
-
-
-
-
-
-
-
+Remember to reach out if you have any questions or need clarification on any of these tasks. Good luck with your literature review introduction!
 
