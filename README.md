@@ -67,7 +67,7 @@ Website: https://www.covidence.org/
    - What is Covidence?
    - Why should we use Covidence? What are some advantages of using this software?
 
-2. Watch the introductory video: Covidence 101
+2. Watch the introductory video: [Covidence 101](https://www.youtube.com/watch?v=Tg1rgfe4vdk)
 
 3. Create a brief summary (can be bullet points) of:
    - Key takeaways from the presentation
