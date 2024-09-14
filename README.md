@@ -37,6 +37,19 @@ You will begin to explore the Covidence Platform that you have been invited to.
 
 * Conduct an initial search for literature related to neuroarchitecture using these platforms and add any papers you find that are relevant to the topic to the Zotero
 
+* The platform we will use for conducting the literature review is called Covidence. 
+  + Link to website: https://www.covidence.org/
+**Tasks:** 
+* I would like you to explore the website and answer the following questions:
++ What is Covidence?
++ Why should we use Covidence? What are some of the advantages of using this software? 
++ What are different types of reviews that can be done? Which would we want to do based on the evidence you had identified in your initial search of the literature? 
+Hint: https://support.covidence.org/help/types-of-review-explained
+* Please watch the following introductory video on using Covidence
++ Introductory Video: Covidence 101
+**Task:**
+  *	Create a brief summary of the key takeaways of this presentation and the platform (can be bullet points)
+
 
 
 
