@@ -20,7 +20,7 @@ You will begin to explore the Covidence Platform that you have been invited to.
 
 **Tasks:**
 Read this article that outlines the literature review process:
-[Link to article] 
+[Link to article](https://www.dropbox.com/scl/fi/710hiakxcg8372yotcfel/SLR-1.pdf?rlkey=c6iws9ffguulg8se9cigy4ba6&st=09vhn64j&dl=0)
 
 
 
