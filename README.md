@@ -59,7 +59,7 @@ Note: Dr. Kastner can help determine which platforms you have access to via GT.
 
 ### 4. Introduction to Covidence
 
-Covidence is the platform we will use for conducting the literature review.
+Covidence is the platform we will use for conducting the literature review. You should have received an invite with access to Covidence. Please check your emails.
 Website: https://www.covidence.org/
 
 #### Tasks:
