@@ -2,7 +2,7 @@
 
 ## Week 1
 **Introduction to Topic**
-* Dr. Haas and Dr. Kastner will introduce the topic to the team. 
+* Dr. Kastner will introduce the topic to the team. 
 * Dr. Kastner will go over the organizational/administrative aspects of the topic and ensure the students have the resources they need to be successful.
   
 **Task:**
