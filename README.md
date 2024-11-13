@@ -1,5 +1,14 @@
 # 24Fa-Neuroarchitecture
 
+## Team
+
+| Name                  | Seniority | Major                  | Department | GitHub Handle                                                 | Topic Area                                             |
+| --------------------- | --------- | ---------------------- | ---------- | ------------------------------------------------------------- | ------------------------------------------------------ |
+| Changda Ma            | Masters   | Architecture           | ARCH       | [changdama](https://github.com/changdama)                     | [Neuroarchitecture](/24fa-neuroarchitecture)           |
+| Misha Lee             | Sophomore | Civil Engineering      | CEE        | [memesha](https://github.com/memesha)                         | [Neuroarchitecture](/24fa-neuroarchitecture)           |
+| L. Q. Nhu Nguyen      | Masters   | Architecture           | ARCH       | [qnguyen322](https://github.com/qnguyen322)                   | [Neuroarchitecture](/24fa-neuroarchitecture)           |
+| Parya Monjezi         | Masters   | Architecture  (HBP)    | ARCH       | [Pmonjezi3](https://github.com/Pmonjezi3)                     | [Neuroarchitecture](/24fa-neuroarchitecture)           |
+
 ## Week 1
 **Introduction to Topic**
 * Dr. Kastner will introduce the topic to the team. 
